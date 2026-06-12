@@ -1,0 +1,29 @@
+{
+  "name": "LANGUY: Where Are You From?",
+  "short_name": "LANGUY",
+  "description": "A pixel comedy adventure where you play AS the polyglot. Guess languages, learn real phrases, defeat the five Fears.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F1724",
+  "theme_color": "#0F1724",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
