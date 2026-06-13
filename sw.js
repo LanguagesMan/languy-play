@@ -1,6 +1,6 @@
 // Minimal offline cache. Navigations are network-first (no stale releases);
 // hashed assets are cache-first. Bump CACHE on each release.
-const CACHE = 'languy-v3-mystery'
+const CACHE = 'languy-v4-closeup'
 
 self.addEventListener('install', () => {
   self.skipWaiting()
