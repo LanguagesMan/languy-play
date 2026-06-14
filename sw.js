@@ -1,6 +1,6 @@
 // Minimal offline cache. Navigations are network-first (no stale releases);
 // hashed assets are cache-first. Bump CACHE on each release.
-const CACHE = 'languy-v7-readable'
+const CACHE = 'languy-v8-apartment'
 
 self.addEventListener('install', () => {
   self.skipWaiting()
