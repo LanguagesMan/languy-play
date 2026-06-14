@@ -1,6 +1,6 @@
 // Minimal offline cache. Navigations are network-first (no stale releases);
 // hashed assets are cache-first. Bump CACHE on each release.
-const CACHE = 'languy-v9-explore'
+const CACHE = 'languy-v10-walkroom'
 
 self.addEventListener('install', () => {
   self.skipWaiting()
