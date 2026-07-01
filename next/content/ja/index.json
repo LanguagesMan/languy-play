@@ -1,0 +1,98 @@
+{
+  "lang": "ja",
+  "stages": [
+    {
+      "stage": 1,
+      "title": "tiny everyday sentences (1–4 words, no clauses)",
+      "count": 94,
+      "file": "stage-01.json"
+    },
+    {
+      "stage": 2,
+      "title": "still short + simple (up to 5 words)",
+      "count": 94,
+      "file": "stage-02.json"
+    },
+    {
+      "stage": 3,
+      "title": "short, easy phrases",
+      "count": 94,
+      "file": "stage-03.json"
+    },
+    {
+      "stage": 4,
+      "title": "fuller short sentences",
+      "count": 94,
+      "file": "stage-04.json"
+    },
+    {
+      "stage": 5,
+      "title": "everyday sentences, growing",
+      "count": 94,
+      "file": "stage-05.json"
+    },
+    {
+      "stage": 6,
+      "title": "longer everyday sentences",
+      "count": 94,
+      "file": "stage-06.json"
+    },
+    {
+      "stage": 7,
+      "title": "fuller sentences",
+      "count": 94,
+      "file": "stage-07.json"
+    },
+    {
+      "stage": 8,
+      "title": "first sentences with linked ideas",
+      "count": 94,
+      "file": "stage-08.json"
+    },
+    {
+      "stage": 9,
+      "title": "connected, real phrasing",
+      "count": 94,
+      "file": "stage-09.json"
+    },
+    {
+      "stage": 10,
+      "title": "richer connected sentences",
+      "count": 94,
+      "file": "stage-10.json"
+    },
+    {
+      "stage": 11,
+      "title": "longer real-life sentences",
+      "count": 93,
+      "file": "stage-11.json"
+    },
+    {
+      "stage": 12,
+      "title": "complex everyday speech",
+      "count": 93,
+      "file": "stage-12.json"
+    },
+    {
+      "stage": 13,
+      "title": "varied, natural sentences",
+      "count": 93,
+      "file": "stage-13.json"
+    },
+    {
+      "stage": 14,
+      "title": "long, layered sentences",
+      "count": 93,
+      "file": "stage-14.json"
+    },
+    {
+      "stage": 15,
+      "title": "long, real sentences (the hardest)",
+      "count": 93,
+      "file": "stage-15.json"
+    }
+  ],
+  "totalSentences": 1405,
+  "lessonCount": 90,
+  "audioBase": ""
+}
