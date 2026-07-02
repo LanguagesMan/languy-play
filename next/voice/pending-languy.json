@@ -1,0 +1,31 @@
+{
+  "voice": "LANGUY_CLONE",
+  "voiceId": "y890cvKT1HyO5X5tiKUB",
+  "note": "Founder rule: Languy speaks in HIS clone or not at all. Clone needs ElevenLabs Creator tier. After subscribing: LANGUY_VOICE_ID=y890cvKT1HyO5X5tiKUB npx tsx scripts/gen-voice-sofia.ts",
+  "lines": [
+    {
+      "key": "4vv87r",
+      "text": "No warm-up. No small talk. She skipped straight to loving me. I am not equipped for this. I am rock."
+    },
+    {
+      "key": "17q0qno",
+      "text": "Opening line. Match her energy. …My energy is a slow tide and mild dread."
+    },
+    {
+      "key": "1ebdv6l",
+      "text": "I said I was fine and her heart visibly broke. I have made an angel sad. This is so much worse than rejection."
+    },
+    {
+      "key": "1d7hv95",
+      "text": "Feeling. On command. She is already crying happy tears and I have produced zero syllables. The pressure."
+    },
+    {
+      "key": "mhnvmp",
+      "text": "A real test. Do I know it… or did being loved that hard just scramble my whole motherboard?"
+    },
+    {
+      "key": "17dwry7",
+      "text": "One more. Just one. …She loved me before I earned it. Turns out I’d been waiting for that. Don’t tell her."
+    }
+  ]
+}

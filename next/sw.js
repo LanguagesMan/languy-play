@@ -1,6 +1,6 @@
 // Minimal offline cache. Navigations are network-first (no stale releases);
 // hashed assets are cache-first. Bump CACHE on each release.
-const CACHE = 'languy-v14-passport-clean'
+const CACHE = 'languy-v15-sofia-voice-sfx'
 
 self.addEventListener('install', () => {
   self.skipWaiting()
